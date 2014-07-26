@@ -1,7 +1,7 @@
 Chess
 =====
 
-My second attempt at creating chess.
+My second attempt at creating chess. This time with a different and kind of odd way of implementing it.
 
 Typical chess rules are implemented.
 
